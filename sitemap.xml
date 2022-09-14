@@ -29,6 +29,9 @@
     <loc>https://example.com/tags/</loc>
     <lastmod>2020-05-12T16:11:56-07:00</lastmod>
   </url><url>
+    <loc>https://example.com/projects/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://example.com/categories/</loc>
   </url>
 </urlset>
